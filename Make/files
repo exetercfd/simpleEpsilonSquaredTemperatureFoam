@@ -1,0 +1,3 @@
+simpleEpsilonSquaredTemperatureFoam.C
+
+EXE = $(FOAM_APPBIN)/simpleEpsilonSquaredTemperatureFoam
